@@ -1,3 +1,11 @@
+---
+name: design
+about: 問題の解法設計
+title: '問題の解法設計'
+assignees: takuabonn
+
+---
+
 ## 問題情報
  
 - 問題URL: 
